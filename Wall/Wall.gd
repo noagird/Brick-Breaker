@@ -8,5 +8,5 @@ func _ready():
 func _physics_process(_delta):
 	pass
 
-func hit():
+func hit(_ball):
 	pass
